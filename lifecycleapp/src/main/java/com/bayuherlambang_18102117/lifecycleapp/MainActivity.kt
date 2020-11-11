@@ -12,10 +12,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         printState("ini percobaan toast")
 
-        btnPage.setOnClickListener{
-            val intent = Intent(this, HalamanDuaActivity::class.java)
-            startActivity(intent)
-        }
+
 
     }
     fun printState(msg: String){

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Laundryku</string>
+    <string name="hint_input_nama">Input Nama</string>
+    <string name="btn_daftar">Daftar</string>
+</resources>

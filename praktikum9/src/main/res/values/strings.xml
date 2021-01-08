@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shared Preferences</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="phone">Nomer Telepon</string>
+    <string name="age">Umur</string>
+    <string name="tv_theme">Theme Mode</string>
+</resources>
